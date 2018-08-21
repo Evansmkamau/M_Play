@@ -10,6 +10,8 @@
     android:paddingTop="@dimen/activity_vertical_margin"
     tools:context="exceptionbound.com.musicplayerforandroiddevice.MainActivity">
  
+#Remember to edit app name and company name in this file
+
     <ListView
         android:id="@android:id/list"
         android:layout_width="fill_parent"
